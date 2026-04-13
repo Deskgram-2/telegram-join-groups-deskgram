@@ -47,6 +47,14 @@
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), если подписки служат подготовкой к дальнейшему контакту.
 - [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram), если после сборки окружения нужен рост через приглашения.
 
+## Какие соседние цепочки особенно полезны
+
+- [Прогрев аккаунтов](https://github.com/Deskgram-2/telegram-account-warmup-deskgram), если подписки идут как часть аккуратной подготовки сетки;
+- [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram), если после входа в сообщества запускается AI-активность;
+- [Сбор аудитории из комментариев](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram), если среда нужна для поиска более теплой базы;
+- [Сбор писавших в чатах](https://github.com/Deskgram-2/telegram-active-chat-users-parser-deskgram), если фокус на живых обсуждениях;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если нужно отслеживать подготовку среды и дальнейшие сценарии как один поток.
+
 ## Как устроен сценарий
 
 ### Список источников
@@ -85,6 +93,9 @@ Deskgram 2 может работать как по индивидуальным 
 - [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
 - [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
+- [Прогрев аккаунтов](https://github.com/Deskgram-2/telegram-account-warmup-deskgram)
+- [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 

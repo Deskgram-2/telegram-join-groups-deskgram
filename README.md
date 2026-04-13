@@ -39,6 +39,14 @@
 4. Запустите задачу и следите за статистикой.
 5. Используйте подготовленные аккаунты в дальнейших модулях.
 
+## С чем лучше сочетать
+
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если сетка аккаунтов еще не подготовлена.
+- [Прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram), если подписки идут через рабочий пул прокси.
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram), если после подписок нужно собирать пользователей в сообществах.
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), если подписки служат подготовкой к дальнейшему контакту.
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram), если после сборки окружения нужен рост через приглашения.
+
 ## Как устроен сценарий
 
 ### Список источников
@@ -75,6 +83,8 @@ Deskgram 2 может работать как по индивидуальным 
 - [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
 - [Прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram)
 - [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
 
 ## FAQ
 
